@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ShephardLuke
-- 👀 I’m interested in everything to do with Computer Science
-- 🌱 I’m currently learning React with TypeScript and Tailwind
+- 👋 Hi, I’m @ShephardLuke!
+- 👀 I’m interested in everything to do with Computer Science.
+- 🌱 I’m currently learning React with TypeScript and Tailwind.
 - 📫 How to reach me: ShephardLuke@hotmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
+- 🖥️ My programming statistics: https://codestats.net/users/ShephardLuke
