@@ -9,3 +9,4 @@ If you wish to contact me, please can use my email: ShephardLuke@hotmail.com
 
 Check out my [personal website](https://ShephardLuke.co.uk) for more information!
 
+[Here's my coding statistics!](https://codestats.net/users/ShephardLuke)
