@@ -1,12 +1,12 @@
-Hi, I'm Luke! Welcome to my little corner of the internet...<br>
+Hi, I'm Luke! Welcome to my GitHub!<br>
 
-Some information about me:
+About me:
 - I am 20 years old.
-- I am currently studying Computer Science in my second year at Queen Mary University of London.
-- My programming [projects](https://projects.shephardluke.co.uk) are my favourite pass time.
+- I am currently studying Computer Science at Queen Mary University of London, starting year 3 in September.
+- Programming is my favourite hobby.
 
 If you wish to contact me, please can use my email: [shephardluke@hotmail.com](mailto:shephardluke@hotmail.com)
 
 Check out my personal website at [shephardluke.co.uk](https://shephardluke.co.uk) for more about me!
 
-My cool coding statistics: [codestats.net/users/ShephardLuke](https://codestats.net/users/ShephardLuke)
+My coding statistics: [codestats.net/users/ShephardLuke](https://codestats.net/users/ShephardLuke)
