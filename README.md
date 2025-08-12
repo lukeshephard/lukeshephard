@@ -5,8 +5,8 @@ About me:
 - I am currently studying Computer Science at Queen Mary University of London, starting year 3 in September.
 - Programming is my favourite hobby.
 
-If you wish to contact me, please can use my email: [shephardluke@hotmail.com](mailto:shephardluke@hotmail.com)
+If you wish to contact me, please can use my email: [luke@lukeshephard.com](mailto:luke@lukeshephard@.com)
 
-Check out my personal website at [shephardluke.co.uk](https://shephardluke.co.uk) for more about me!
+Check out my personal website at [lukeshephard.co.uk](https://lukeshephard.co.uk) for more about me!
 
 My coding statistics: [codestats.net/users/ShephardLuke](https://codestats.net/users/ShephardLuke)
