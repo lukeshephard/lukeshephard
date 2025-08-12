@@ -7,6 +7,6 @@ About me:
 
 If you wish to contact me, please can use my email: [luke@lukeshephard.com](mailto:luke@lukeshephard.com)
 
-Check out my personal website at [lukeshephard.co.uk](https://lukeshephard.co.uk) for more about me!
+Check out my personal website at [lukeshephard.com](https://lukeshephard.com) for more about me!
 
 My coding statistics: [codestats.net/users/ShephardLuke](https://codestats.net/users/ShephardLuke)
