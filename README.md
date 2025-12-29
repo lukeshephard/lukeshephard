@@ -1,12 +1,7 @@
-Hi, I'm Luke! Welcome to my GitHub!<br>
+Hi, I'm Luke! Welcome to my GitHub profile!
 
-About me:
-- I am 20 years old.
-- I am currently studying Computer Science at Queen Mary University of London, starting year 3 in September.
-- Programming is my favourite hobby.
+Email: [luke@lukeshephard.com](mailto:luke@lukeshephard.com)
 
-If you wish to contact me, please can use my email: [luke@lukeshephard.com](mailto:luke@lukeshephard.com)
+Portfolio: [lukeshephard.com](https://lukeshephard.com)
 
-Check out my personal website at [lukeshephard.com](https://lukeshephard.com) for more about me!
-
-My coding statistics: [codestats.net/users/ShephardLuke](https://codestats.net/users/ShephardLuke)
+Coding Statistics: [codestats.net/users/ShephardLuke](https://codestats.net/users/ShephardLuke)
